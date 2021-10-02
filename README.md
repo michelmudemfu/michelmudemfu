@@ -2,6 +2,7 @@
 - 👀 I’m interested in Python, machine learning, deep learning and software Engineering and data science.
 - 🌱 I’m currently learning Python, C++, C, Mysql and machine leaning.
 - 💞️ I’m looking to collaborate on Python, C++, Machine Leaning
+- Computer Vision
 - 📫 How to reach me mudekm01@pfw.edu, kmudemfu@purdue.edu
 
 <!---
